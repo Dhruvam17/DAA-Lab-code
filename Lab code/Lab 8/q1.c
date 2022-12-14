@@ -9,7 +9,6 @@ void swap(int a,int b)
     a=b;
     b=temp;
 }
-//comment
 void printMaxActivities(int s[], int f[], int n)
 {
 	int i, j;
